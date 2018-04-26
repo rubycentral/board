@@ -40,7 +40,7 @@ As we discuss then resolve those issues, we will close the issue.
 
 #### Private
 
-Our private feedback method for is email, feedback@rubytogether.org. That address will forward to all of the directors on the board.
+To share private feedback, please email [feedback@rubytogether.org](mailto:feedback@rubytogether.org). That address will forward to all of the directors on the board.
 
 ### How to Keep Up to Date with Ruby Together (Outbound)
 
