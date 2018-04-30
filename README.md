@@ -66,9 +66,26 @@ Members of Ruby Together are automatically added to a private Slack organization
 
 [rubytogether/board](https://github.com/rubytogether/board)
 
+## Finances
+
+### How We Raise Money
+
+Ruby Together raises money from monthly dues from member developers and sponsor
+companies.
+
+### Where the Money Goes
+
+#### RubyGems Partnership
+
+> [RubyGems.org](RubyGems.org) is managed by [Ruby Central](http://rubycentral.org), a community-funded organization supported by conference participation for [RailsConf](railsconf.org) and [RubyConf](rubyconf.org) through tickets and sponsorships.
+>
+> [RubyTogether](rubytogether.org) sponsors individuals to work on development and operations work of RubyGems.org to augment the work of many volunteers. The availability of RubyGems.org is not dependent on these paid contributors and is the sole responsibility of Ruby Central.
+>
+> Hosting fees are paid by Ruby Central and CDN fees are generously donated by [Fastly](fastly.com).
+
 ## TODO
 
 - Board Meetings (How they are conducted, summary of meetings, agendas prior to meetings)
 - Budget and Finances
+  - How we support bundler and other projects.
 - Roles and Responsiblities of everyone in RT
-
