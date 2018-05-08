@@ -77,11 +77,12 @@ companies.
 
 #### RubyGems Partnership
 
-> [RubyGems.org](RubyGems.org) is managed by [Ruby Central](http://rubycentral.org), a community-funded organization supported by conference participation for [RailsConf](railsconf.org) and [RubyConf](rubyconf.org) through tickets and sponsorships.
+> RubyGems.org is made possible by a partnership between Ruby Central, Ruby Together, and Fastly, as well as contributions from the greater Ruby community.
 >
-> [RubyTogether](rubytogether.org) sponsors individuals to work on development and operations work of RubyGems.org to augment the work of many volunteers. The availability of RubyGems.org is not dependent on these paid contributors and is the sole responsibility of Ruby Central.
->
-> Hosting fees are paid by Ruby Central and CDN fees are generously donated by [Fastly](fastly.com).
+> [Ruby Central] pays all of RubyGems.org's hosting fees, ensuring it is always available. [Ruby Together] funds ongoing maintenance and development work, and Fastly provides bandwidth and CDN support. [Learn more about our sponsors and how they work together](https://rubygems.org/pages/sponsors)
+
+[Ruby Central]: https://rubycentral.org
+[Ruby Together]: https://rubytogether.org
 
 ## TODO
 
