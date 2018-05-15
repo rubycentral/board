@@ -81,7 +81,7 @@ RubyGems.org is managed by Ruby Central, a community-funded organization support
 
 Hosting fees are paid by Ruby Central and CDN fees are generously donated by Fastly.
 
-Additionally, RubyTogether sponsors individuals to work on development and operations work RubyGems.org that augments volunteer efforts from the Ruby community.
+Additionally, RubyTogether sponsors individuals to work on development and operations work for RubyGems.org which augments volunteer efforts from the Ruby community.
 
 [Learn more about our sponsors and how they work together.](https://rubygems.org/pages/sponsors)
 
