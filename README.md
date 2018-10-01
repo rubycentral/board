@@ -15,13 +15,7 @@ Like all things, this is an experiment and first draft. We will be improving our
 
 ## Board Members
 
-* Coraline Ehmke
-* Adarsh Pandit
-* Courteney Ervin
-* Allison McMillan
-* André Arko
-* Valerie Woolard Srinivasan
-* (one open board seat)
+A list of board members is maintained on the [Ruby Together team page](https://rubytogether.org/team).
 
 ## Documents
 
